@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="940" viewBox="0 0 800 940">
+<rect width="800" height="940" fill="#E9D8C6"/><circle cx="630" cy="155" r="120" fill="#C58B9B" opacity=".72"/>
+<path d="M0 640 Q180 560 360 650 T800 620 V940 H0Z" fill="#C4A58C"/>
+<rect x="75" y="78" width="650" height="784" rx="5" fill="#FAF5EC" opacity=".55"/>
+<text x="115" y="155" font-family="Arial,sans-serif" font-size="19" letter-spacing="7" fill="#4B2E53">MELLOW COFFEE</text>
+<text x="112" y="270" font-family="Georgia,serif" font-size="76" fill="#4B2E53">slow</text><text x="112" y="346" font-family="Georgia,serif" font-style="italic" font-size="76" fill="#4B2E53">mornings.</text>
+<path d="M280 425 h230 v210 q0 38 -38 38 h-154 q-38 0 -38 -38Z" fill="#B86F50"/><path d="M510 460 q90 -10 78 75 q-8 65 -78 58" fill="none" stroke="#B86F50" stroke-width="25"/>
+<path d="M300 445 h190 v95 q-95 60 -190 0Z" fill="#F3E5D5"/><path d="M300 535 q95 38 190 0" fill="none" stroke="#4B2E53" stroke-width="5"/>
+<text x="395" y="500" text-anchor="middle" font-family="Georgia,serif" font-size="25" fill="#4B2E53">mellow</text>
+<ellipse cx="397" cy="676" rx="170" ry="22" fill="#4B2E53" opacity=".13"/>
+<text x="112" y="785" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" fill="#4B2E53">A LITTLE MOMENT OF CALM</text><path d="M112 810 H688" stroke="#C58B9B" stroke-width="3"/>
+</svg>
